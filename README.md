@@ -1,2 +1,1 @@
-# Off-grid-finance
-An offline finance tracking app
+# An app that can track a bidget even when you are off line and off the grid
