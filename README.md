@@ -16,7 +16,7 @@ The site is available live at: https://agile-gorge-94618.herokuapp.com/. To get 
 
 ## **Built With**
 *JavaScript *Nodejs *ExpressJs 
-*Mongoose *Morgan
+*Mongoose *Morgan *HTML *CSS
 
 ## **Contributors** 
 [Ulises Rosas]
