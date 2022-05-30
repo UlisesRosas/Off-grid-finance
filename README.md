@@ -6,7 +6,7 @@ Off Grid Finance
 An app that can track a budget weather you are connected or on the go. Off Grid Finance will reliably work in diverse situations.
 
 ## Deployed Application
-[Visit App Here](./public/assets/images/App-Screen-Shot.png)
+[Visit App Here](https://agile-gorge-94618.herokuapp.com/)
 
 ![APP](./public/assets/images/App-Screen-Shot.png)
 
